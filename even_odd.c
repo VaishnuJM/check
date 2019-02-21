@@ -10,6 +10,7 @@ int main()
   {
    printf("ODD");
   }
+  return 0;
 }
    
   
